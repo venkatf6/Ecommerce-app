@@ -17,4 +17,5 @@ RUN npm rebuild node-sass
 
 #exposing port no.
 EXPOSE 4200
+#command to run the server
 CMD ng serve -o
