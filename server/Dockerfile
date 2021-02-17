@@ -14,7 +14,7 @@ RUN apt-get install -y npm
 WORKDIR /backend
 
 #Copy backend code to working directory
-COPY .  backend/
+COPY . /backend/
 RUN npm install 
 
 #Command to start your application 
