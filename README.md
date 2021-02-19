@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ecommerce
 Ecommerce web application using Angular | Node.js | Express.js | MongoDB   (MEAN Stack)
 
@@ -90,3 +91,6 @@ cd server
 npm install
 node server.js
 ```
+=======
+# Ecommerce-app
+>>>>>>> 7f61442d3579d713aa4163e5b3665c375c56ea4e
