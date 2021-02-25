@@ -1,7 +1,9 @@
 apiVersion: v1
 kind: Deployment
+# Defining the metadata i.e, name of this deployment
 metadata:
  -name: front-end-deployemnt
+# Defining the replica set i.e, no. instances kubernetes should provision
 spec:
  replicas: 2
  selector:
